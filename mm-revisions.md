@@ -29,16 +29,27 @@
   - The 'process_datasets' function is defined but not used (should be 'process_dataset' ?).
   - Functions are sometimes broken up between code blocks.
   - Some code has been run in the cloud and the outputs are provided as images. This is helpful, but it should be more clear that the code in this case is not intended to be run in colab.
+- **Prompt Generator**
+  - Functions are broken up between code blocks.
+- **Blender**
+  - Very large file.
+  - Explains AV's work on synthetic animal images in blender.
+  - Does not contain any code - this can be included in the pressbook as static content. 
+- **Stable-Diffusion**
+  - Too large - possibly split up.
 
 
 ## checklist of changes
 
 - [ ] check that each jupyter notebook is linked at least once in the OER
+- [ ] add a link to the pressbook in the introduction to each notebook
+- [ ] add or update a 'run in colab' label for all notebooks
 - [ ] add a list of jupyter notebooks to the OER as an appendix
 - [ ] figure out how to connect to data sources - and change all references to google drive accordingly
 - [ ] run all jupyter notebooks in colab and fix (or note) errors
 - [ ] organize the notebooks into folders by functionality (or by OER table of contents)
-- [ ] where functions have been divided into multiple code blocks, recombine into a single block, or make it clear that separate code blocks are not intended to be run individually (for example by including them as screenshots). As a rule, it should be possible to run all the code blocks in the notebook in sequence without generating an error, and ideally with output that is related to a specific code block rather than coming all at once.  
+- [ ] where functions have been divided into multiple code blocks, recombine into a single block, or make it clear that separate code blocks are not intended to be run individually (for example by including them as screenshots). As a rule, it should be possible to run all the code blocks in the notebook in sequence without generating an error, and ideally with output that is related to a specific code block rather than coming all at once.
 - [ ] revisit notebook introductions: add link to pressbook and make sure that the introduction clearly states what you can do with this notebook.
-- [ ] revisit notebook focus: split up if the purpose of the notebook and what you can do with it is not clear.  
+- [ ] revisit notebook focus: split up if the purpose of the notebook and what you can do with it is not clear.
+- [ ] for notebooks with no code ('Blender') - integrate this content in the pressbook. 
 
