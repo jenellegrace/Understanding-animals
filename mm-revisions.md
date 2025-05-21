@@ -10,7 +10,7 @@
 - Some of these notebooks offer a very specific and ideosyncratic piece of functionality - something that is not integral to the OER (Completed_Photoselect tool notebook.ipynb is one example). These notebooks can be kept in a collection of miscellaneous notebooks if they work; and if there are issues we can safely leave them out of the final version.
 - It will make sense to organize the notebooks in folders by type.
 - In several notebooks there are functions that have been broken into multiple code blocks - this is hard to read and I think should be avoided. There is a simple fix: to recombine the function into a single code block.
-- All notebooks need an introduction that clearly describes what is the function of this notebook, ie what you can do with it. Some notebooks have this and some do not. There should also be a link in each notebook introduction to the pressbook.
+- All notebooks need an **introduction** that clearly describes what is the function of this notebook. This should include a section that describes **what you can do with it**. Some notebooks have this and some do not. There should also be a link in each notebook introduction to the pressbook.
 
 ## file notes
 
@@ -28,7 +28,7 @@
   - 'safe_get_image_files() function is defined twice in the notebook.
   - The 'process_datasets' function is defined but not used (should be 'process_dataset' ?).
   - Functions are sometimes broken up between code blocks.
-  - Some code has been run in the cloud and the outputs are provided as images. This is helpful, but it should be more clear that the code in this case is not intended to be run in colab.
+  - Some code has been run in the cloud and the outputs are provided as images. This is helpful, but it should be more clear that the code in this case is not intended to be run in colab. Code that cannot be run in colab could be moved to the Pressbook.
 - **Prompt Generator**
   - Functions are broken up between code blocks.
 - **Blender**
@@ -37,6 +37,14 @@
   - Does not contain any code - this can be included in the pressbook as static content. 
 - **Stable-Diffusion**
   - Too large - possibly split up.
+- **COMPLETED-image-filter.ipynb**
+  - Very useful notebook.
+  - Somewhat repetitive: each section repeats the first section with minor changes. Possibly include a section that simply indicates what needs to be changed for each type of filter.
+- **COMPLETED-random-manual-review.ipynb**
+  - Very useful notebook.
+- **COMPLETED-ft-data-prep.ipynb**
+  - Very useful.
+  - Introduction should indicate other datasets (in addition to COCO) that could be used with this notebook for YOLO training, and why you might choose one dataset over another. 
 
 
 ## checklist of changes
