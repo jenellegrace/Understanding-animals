@@ -44,7 +44,10 @@
   - Very useful notebook.
 - **COMPLETED-ft-data-prep.ipynb**
   - Very useful.
-  - Introduction should indicate other datasets (in addition to COCO) that could be used with this notebook for YOLO training, and why you might choose one dataset over another. 
+  - Introduction should indicate other datasets (in addition to COCO) that could be used with this notebook for YOLO training, and why you might choose one dataset over another.
+- **COMPLETED-ResNet50-bounding-boxes.ipynb**
+  - Very useful notebook.
+  - There are three sections that are essentially independent of each other: I think these should be broken up into three separate notebooks.
 
 
 ## checklist of changes
