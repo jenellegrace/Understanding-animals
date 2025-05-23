@@ -12,10 +12,11 @@ This file tracks tasks and priorities for AV's week of May 26-30, organized by p
 ### 🔥 High Priority Tasks
 
 #### Notebook Revisions & Data Management 🔄
-- [ ] **CRITICAL** - Complete notebook revisions for animals project as outlined in *notebook-revisions.md*
-- [ ] **CRITICAL** - Collect notebook datasources in single public Google Drive folder  
-- [ ] **CRITICAL** - Update data access code in all notebooks to use centralized sources
-- [ ] **CRITICAL** - Test all updated notebooks for functionality
+- [ ] Complete notebook revisions for animals project as outlined in *notebook-revisions.md*
+- [ ] Collect notebook datasources in single public Google Drive folder  
+- [ ] Update data access code in all notebooks to use centralized sources
+- [ ] Test all updated notebooks for functionality
+- [ ] Test prompt for creating notebook introductions and apply to notebooks
 
 **Estimated Effort:** 12-20 hours  
 **Deadline:** May 30 (all notebooks edited and tested)
@@ -26,7 +27,7 @@ This file tracks tasks and priorities for AV's week of May 26-30, organized by p
 ### 🟡 Medium Priority Tasks
 
 #### Summer Workshop Preparation 🔄
-- [ ] **MEDIUM** - Prepare materials for summer workshop on local AI models
+- [ ] Prepare materials for summer workshop on local AI models
   - [ ] Create simple installation guide for WSL2, Ollama, OpenWebUI
   - [ ] Ask Mitch for his materials and advice: integrate recommendations
   - [ ] Explain terminal usage for open models
@@ -37,12 +38,12 @@ This file tracks tasks and priorities for AV's week of May 26-30, organized by p
 **Dependencies:** Coordination with Mitch for materials
 
 #### Jenelle Support & Training 🔄
-- [ ] **HIGH** - Help Jenelle complete Linux computer setup
-- [ ] **HIGH** - Explain git workflow for collaborative development and support Jenelle in using Git + GitHub
+- [ ] Help Jenelle complete Linux computer setup
+- [ ] Explain git workflow for collaborative development and support Jenelle in using Git + GitHub
   - [ ] Explain branch creation and commit process
   - [ ] Establish push procedures
   - [ ] Review quick reference guide
-- [ ] **HIGH** provide notebook review tasks for Jenelle
+- [ ] provide notebook review tasks for Jenelle
   - [ ] Explain how to access notebooks in Understanding Animals repo
   - [ ] Answer questions as they come up  
 
@@ -50,7 +51,7 @@ This file tracks tasks and priorities for AV's week of May 26-30, organized by p
 **Dependencies:** Jenelle's availability, Linux system access
 
 #### Conference Abstract Development ❌
-- [ ] **MEDIUM** - Work on AI DESIGN PRACTICES conference abstract
+- [ ] Work on AI DESIGN PRACTICES conference abstract
   - [ ] Focus on synthetic images + game engines research
   - [ ] Identify specific summer work component (completable scope)
   - [ ] Prepare abstract text
@@ -66,16 +67,16 @@ This file tracks tasks and priorities for AV's week of May 26-30, organized by p
 
 #### Research & Development ❌
 
-- [ ] **MEDIUM** - Prepare literature review for AI DESIGN PRACTICES conference paper
-- [ ] **LOW** - Prepare literature review for timber databases paper
-- [ ] **LOW** - Research and documentation tasks
+- [ ] Prepare literature review for AI DESIGN PRACTICES conference paper
+- [ ] Prepare literature review for timber databases paper
+- [ ] Research and documentation tasks
 
 **Estimated Effort:** 2-4 hours (per literature review)
 
 #### Technical Infrastructure 🔄
-- [ ] **LOW** - Prepare USB drive for Linux computer cloning
-- [ ] **LOW** - Clone Linux system to Mark's desktop Alienware computer
-- [ ] **LOW** - Test cloned system functionality
+- [ ] Prepare USB drive for Linux computer cloning
+- [ ] Clone Linux system to Mark's desktop Alienware computer
+- [ ] Test cloned system functionality
 
 **Estimated Effort:** 2-3 hours  
 **Dependencies:** Hardware access, system requirements
@@ -147,7 +148,7 @@ This file tracks tasks and priorities for AV's week of May 26-30, organized by p
 - [ ] Conference abstract outline completed
 
 ### Quality Standards
-- All notebooks must run without errors
+- All notebooks should run without errors
 - Data access should be reliable and documented
 - Workshop materials should be beginner-friendly
 - Git workflow should include clear examples

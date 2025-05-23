@@ -10,19 +10,19 @@ This file tracks notes and revisions for jupyter notebooks and code in the 'Unde
 ## High-Level Project Tasks
 
 ### Data Infrastructure 🔄
-- [ ] **HIGH** - Migrate from Google Drive to Borealis API for data access
-- [ ] **HIGH** - Test Borealis Python API functionality  
-- [ ] **MEDIUM** - Update all data access code across notebooks
+- [ ] **LOW** - Migrate from Google Drive to Borealis API for data access
+- [ ] **LOW** - Test Borealis Python API functionality  
+- [ ] **HIGH** - Update all data access code across notebooks - using google drive
 
 ### Documentation & Integration 🔄
-- [ ] **HIGH** - Verify each notebook is linked in OER
-- [ ] **HIGH** - Add pressbook links to all notebook introductions
+- [ ] **LOW** - Verify each notebook is linked in OER
+- [ ] **LOW** - Add pressbook links to all notebook introductions
 - [ ] **MEDIUM** - Create notebook appendix for OER
 - [ ] **MEDIUM** - Add/update 'Run in Colab' labels
 
 ### Testing & Quality Assurance 🔄
 - [ ] **HIGH** - Test all notebooks in Google Colab
-- [ ] **MEDIUM** - Fix credential propagation issues for data access (data should be in a single public google drive folder for testing)
+- [ ] **HIGH** - Fix temporary data access (data should be in a single public google drive folder for testing)
 
 ---
 
@@ -33,7 +33,7 @@ This file tracks notes and revisions for jupyter notebooks and code in the 'Unde
 |----------|--------|----------------|-------------|
 | `Completed_boundingboxcoco.ipynb` | ⚠️ | Data access, undefined variables | 2-3 hours |
 | `COMPLETED-ResNet50-bounding-boxes.ipynb` | 🔄 | Split into 3 notebooks or simplify | 4-5 hours |
-| `COMPLETED-yolov5-pretrained.ipynb` | ✅ | Ready | - |
+| `COMPLETED-yolov5-pretrained.ipynb` | ❌ | Not yet reviewed | - |
 | `Completed.All Datasizes.Classifier.ipynb` | ❌ | Major restructuring needed | 6-8 hours |
 
 ### 🎨 Image Generation & Synthesis  
@@ -54,8 +54,8 @@ This file tracks notes and revisions for jupyter notebooks and code in the 'Unde
 | Notebook | Status | Priority Issues | Est. Effort |
 |----------|--------|----------------|-------------|
 | `COMPLETED-close-encounters.ipynb` | ❌ | Needs review | - |
-| `COMPLETED-matplotlib-visualization.ipynb` | ❌ | ReNeeds reviewady | - |
-| `COMPLETED-random-interactive-image.ipynb` | ❌ | ReNeeds reviewady | - |
+| `COMPLETED-matplotlib-visualization.ipynb` | ❌ | Needs review | - |
+| `COMPLETED-random-interactive-image.ipynb` | ❌ | Needs review | - |
 | `COMPLETED-sightings-bar-graph.ipynb` | ❌ | Needs review | - |
 | `COMPLETED-treemap.ipynb` | ❌ | Needs review | - |
 | `COMPLETED_100grid.ipynb` | ❌ | Needs review | - |
