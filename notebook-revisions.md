@@ -1,4 +1,4 @@
-# MM-Revisions - Improved Structure
+# Notebook Revisions
 
 ## Project Overview
 This file tracks notes and revisions for jupyter notebooks and code in the 'Understanding Animals' repository. These notes are used to track changes that need to be made for the Wild Winnipeg OER project.
@@ -14,16 +14,15 @@ This file tracks notes and revisions for jupyter notebooks and code in the 'Unde
 - [ ] **HIGH** - Test Borealis Python API functionality  
 - [ ] **MEDIUM** - Update all data access code across notebooks
 
-### Documentation & Integration ❌
+### Documentation & Integration 🔄
 - [ ] **HIGH** - Verify each notebook is linked in OER
 - [ ] **HIGH** - Add pressbook links to all notebook introductions
 - [ ] **MEDIUM** - Create notebook appendix for OER
-- [ ] **LOW** - Add/update 'Run in Colab' labels
+- [ ] **MEDIUM** - Add/update 'Run in Colab' labels
 
 ### Testing & Quality Assurance 🔄
 - [ ] **HIGH** - Test all notebooks in Google Colab
-- [ ] **MEDIUM** - Fix credential propagation issues
-- [ ] **LOW** - Clean up test outputs and debugging code
+- [ ] **MEDIUM** - Fix credential propagation issues for data access (data should be in a single public google drive folder for testing)
 
 ---
 
@@ -33,7 +32,7 @@ This file tracks notes and revisions for jupyter notebooks and code in the 'Unde
 | Notebook | Status | Priority Issues | Est. Effort |
 |----------|--------|----------------|-------------|
 | `Completed_boundingboxcoco.ipynb` | ⚠️ | Data access, undefined variables | 2-3 hours |
-| `COMPLETED-ResNet50-bounding-boxes.ipynb` | 🔄 | Split into 3 notebooks | 4-5 hours |
+| `COMPLETED-ResNet50-bounding-boxes.ipynb` | 🔄 | Split into 3 notebooks or simplify | 4-5 hours |
 | `COMPLETED-yolov5-pretrained.ipynb` | ✅ | Ready | - |
 | `Completed.All Datasizes.Classifier.ipynb` | ❌ | Major restructuring needed | 6-8 hours |
 
@@ -54,12 +53,12 @@ This file tracks notes and revisions for jupyter notebooks and code in the 'Unde
 ### 📈 Visualization & Analysis
 | Notebook | Status | Priority Issues | Est. Effort |
 |----------|--------|----------------|-------------|
-| `COMPLETED-close-encounters.ipynb` | ✅ | Ready | - |
-| `COMPLETED-matplotlib-visualization.ipynb` | ✅ | Ready | - |
-| `COMPLETED-random-interactive-image.ipynb` | ✅ | Ready | - |
-| `COMPLETED-sightings-bar-graph.ipynb` | ✅ | Ready | - |
-| `COMPLETED-treemap.ipynb` | ✅ | Ready | - |
-| `COMPLETED_100grid.ipynb` | ✅ | Ready | - |
+| `COMPLETED-close-encounters.ipynb` | ❌ | Needs review | - |
+| `COMPLETED-matplotlib-visualization.ipynb` | ❌ | ReNeeds reviewady | - |
+| `COMPLETED-random-interactive-image.ipynb` | ❌ | ReNeeds reviewady | - |
+| `COMPLETED-sightings-bar-graph.ipynb` | ❌ | Needs review | - |
+| `COMPLETED-treemap.ipynb` | ❌ | Needs review | - |
+| `COMPLETED_100grid.ipynb` | ❌ | Needs review | - |
 
 ### 🔧 Miscellaneous Tools
 | Notebook | Status | Priority Issues | Est. Effort |
