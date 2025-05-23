@@ -156,8 +156,8 @@ Good practice includes committing when stepping away and pushing/deleting branch
 - AV to continue refining prompts for notebook introductions, focusing on consistency and specifying terms for standardization.
 - AV to explore using other models (besides the initial one tested) for generating introductions.
 - AV and Janelle to set up ChatGPT Plus accounts.
-- Mark to provide API keys for necessary tools (specifically Quote Code) via Teams.
-- AV and Janelle to explore Notebook LM features like Canvas and Deep Research for potential use in literature reviews and abstract writing.
+- Mark to provide API keys for necessary tools (specifically Claude Code) via Teams.
+- AV and Janelle to explore ChatGPT features like Canvas and Deep Research for potential use in literature reviews and abstract writing.
 - AV and Janelle to practice the Git workflow, potentially using the terminal for better internalization, as outlined in the provided cheat sheet.
 - AV to perform a "pull" in Git to merge the recent changes made by Mark.
 
