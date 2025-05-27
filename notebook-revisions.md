@@ -34,8 +34,8 @@ This file tracks notes and revisions for jupyter notebooks and code in the 'Unde
 | `Completed_boundingboxcoco.ipynb` | ⚠️ | Data access, undefined variables | 2-3 hours |
 | `COMPLETED-ResNet50-bounding-boxes.ipynb` | 🔄 | Split into 3 notebooks or simplify | 4-5 hours |
 | `COMPLETED-yolov5-pretrained.ipynb` | ❌ | Not yet reviewed | - |
-| `Completed.All Datasizes.Classifier.ipynb` | ✅ | Has been split into 2 notebooks. | 6-8 hours |
-| `Completed.Classification-Report.ipynb` | ✅ | Split from datasizes classifier notebook. | - |
+| `Completed.All Datasizes.Classifier.ipynb` | ✅ | Has been split into 2 notebooks. | 6-8 hours | renamed to 100-500-1000-5000.Datasizes.Matrices.ipynb
+| `Completed.Classification-Report.ipynb` | ✅ | Split from datasizes classifier notebook. | - | renamed to 100-500-1000-5000.Classification-Report.ipynb
 
 ### 🎨 Image Generation & Synthesis  
 | Notebook | Status | Priority Issues | Est. Effort |
