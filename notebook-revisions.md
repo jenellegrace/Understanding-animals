@@ -35,6 +35,7 @@ This file tracks notes and revisions for jupyter notebooks and code in the 'Unde
 | `COMPLETED-ResNet50-bounding-boxes.ipynb` | 🔄 | Split into 3 notebooks or simplify | 4-5 hours |
 | `COMPLETED-yolov5-pretrained.ipynb` | ❌ | Not yet reviewed | - |
 | `Completed.All Datasizes.Classifier.ipynb` | ✅ | Has been split into 2 notebooks. | 6-8 hours |
+| `Completed.Classification-Report.ipynb` | ✅ | Split from datasizes classifier notebook. | - |
 
 ### 🎨 Image Generation & Synthesis  
 | Notebook | Status | Priority Issues | Est. Effort |
