@@ -34,7 +34,7 @@ This file tracks notes and revisions for jupyter notebooks and code in the 'Unde
 | `Completed_boundingboxcoco.ipynb` | ⚠️ | Data access, undefined variables | 2-3 hours |
 | `COMPLETED-ResNet50-bounding-boxes.ipynb` | 🔄 | Split into 3 notebooks or simplify | 4-5 hours |
 | `COMPLETED-yolov5-pretrained.ipynb` | ❌ | Not yet reviewed | - |
-| `Completed.All Datasizes.Classifier.ipynb` | ❌ | Major restructuring needed | 6-8 hours |
+| `Completed.All Datasizes.Classifier.ipynb` | ✅ | Has been split into 2 notebooks. | 6-8 hours |
 
 ### 🎨 Image Generation & Synthesis  
 | Notebook | Status | Priority Issues | Est. Effort |
@@ -53,10 +53,10 @@ This file tracks notes and revisions for jupyter notebooks and code in the 'Unde
 ### 📈 Visualization & Analysis
 | Notebook | Status | Priority Issues | Est. Effort |
 |----------|--------|----------------|-------------|
-| `COMPLETED-close-encounters.ipynb` | ❌ | Needs review | - |
-| `COMPLETED-matplotlib-visualization.ipynb` | ❌ | Needs review | - |
+| `COMPLETED-close-encounters.ipynb` | ✅ | One output error has been fixed, but test output pdf is blank(?) | - |
+| `COMPLETED-matplotlib-visualization.ipynb` | ❌ | Needs review | Jenelle |
 | `COMPLETED-random-interactive-image.ipynb` | ❌ | Needs review | - |
-| `COMPLETED-sightings-bar-graph.ipynb` | ❌ | Needs review | - |
+| `COMPLETED-sightings-bar-graph.ipynb` | ❌ | Needs review | Jenelle |
 | `COMPLETED-treemap.ipynb` | ❌ | Needs review | - |
 | `COMPLETED_100grid.ipynb` | ✅ | No cell output errors, but generated grid images need to be checked in its output folder | - |
 
