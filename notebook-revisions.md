@@ -35,7 +35,7 @@ This file tracks notes and revisions for jupyter notebooks and code in the 'Unde
 | `COMPLETED-ResNet50-bounding-boxes.ipynb` | 🔄 | Split into 3 notebooks or simplify | 4-5 hours |
 | `COMPLETED-yolov5-pretrained.ipynb` | ❌ | Not yet reviewed | - |
 | `Completed.All Datasizes.Classifier.ipynb` | ✅ | Has been split into 2 notebooks. | 6-8 hours | renamed to 100-500-1000-5000.Datasizes.Matrices.ipynb
-| `Completed.Classification-Report.ipynb` | ✅ | Split from datasizes classifier notebook. | - | renamed to 100-500-1000-5000.Classification-Report.ipynb
+| `Completed.Classification-Report.ipynb` | ✅ | Split from datasizes classifier notebook. | - | renamed to 100-500-1000-5000.Classification-Report.ipynb  *these 2 new notebooks need to be uploaded and the All.Datasizes.Classifier.ipynb needs to be deleted off github.*
 
 ### 🎨 Image Generation & Synthesis  
 | Notebook | Status | Priority Issues | Est. Effort |
@@ -54,12 +54,12 @@ This file tracks notes and revisions for jupyter notebooks and code in the 'Unde
 ### 📈 Visualization & Analysis
 | Notebook | Status | Priority Issues | Est. Effort |
 |----------|--------|----------------|-------------|
-| `COMPLETED-close-encounters.ipynb` | ✅ | One output error has been fixed, but test output pdf is blank(?) | - |
+| `COMPLETED-close-encounters.ipynb` | ✅ | *One output error has been fixed, but test output pdf is blank(?)* | - |
 | `COMPLETED-matplotlib-visualization.ipynb` | ❌ | Needs review | Jenelle |
-| `COMPLETED-random-interactive-image.ipynb` | ❌ | Needs review | - |
+| `COMPLETED-random-interactive-image.ipynb` | ✅ | Tested & cleaned the notebook | - |
 | `COMPLETED-sightings-bar-graph.ipynb` | ❌ | Needs review | Jenelle |
 | `COMPLETED-treemap.ipynb` | ✅ | No issues/errors | - |
-| `COMPLETED_100grid.ipynb` | ✅ | No cell output errors, but generated grid images need to be checked in its output folder | - |
+| `COMPLETED_100grid.ipynb` | ✅ | No cell output errors, *but generated grid images need to be checked in its output folder* | - |
 
 ### 🔧 Miscellaneous Tools
 | Notebook | Status | Priority Issues | Est. Effort |
