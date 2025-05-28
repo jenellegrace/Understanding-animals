@@ -32,7 +32,7 @@ This file tracks notes and revisions for jupyter notebooks and code in the 'Unde
 | Notebook | Status | Priority Issues | Est. Effort |
 |----------|--------|----------------|-------------|
 | `Completed_boundingboxcoco.ipynb` | ✅ | Data access, undefined variables --> Now fixed | 2-3 hours |
-| `COMPLETED-ResNet50-bounding-boxes.ipynb` | ⚠️ | Split into 3 notebooks or simplify | 4-5 hours | *Update: first chapter's input folder is missing in our shared data in Google Drive.*
+| `COMPLETED-ResNet50-bounding-boxes.ipynb` | ⚠️ | Split into 3 notebooks or simplify | 4-5 hours | *Update: first chapter's input folder (4370-subset folder) is missing in our shared data in Google Drive. This is the input folder for most of the notebook's scripts.* 
 | `COMPLETED-yolov5-pretrained.ipynb` | ✅ | No issues/errors | - |
 | `Completed.All Datasizes.Classifier.ipynb` | ✅ | Has been split into 2 notebooks. | 6-8 hours | renamed to 100-500-1000-5000.Datasizes.Matrices.ipynb
 | `Completed.Classification-Report.ipynb` | ✅ | Split from datasizes classifier notebook. | - | renamed to 100-500-1000-5000.Classification-Report.ipynb  *these 2 new notebooks need to be uploaded and the All.Datasizes.Classifier.ipynb needs to be deleted off github.*
