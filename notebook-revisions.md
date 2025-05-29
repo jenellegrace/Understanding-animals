@@ -49,7 +49,7 @@ This file tracks notes and revisions for jupyter notebooks and code in the 'Unde
 |----------|--------|----------------|-------------|
 | `COMPLETED-image-filter.ipynb` | ✅ | Minor repetition cleanup | 1 hour |
 | `COMPLETED-random-manual-review.ipynb` | ✅ | Ready | - |
-| `COMPLETED-ft-data-prep.ipynb` | 🔄 | Improve intro, add dataset options | 2 hours |
+| `COMPLETED-ft-data-prep.ipynb` | ✅ | No output errors. Still need to improve intro, add dataset options | 2 hours |
 
 ### 📈 Visualization & Analysis
 | Notebook | Status | Priority Issues | Est. Effort |
