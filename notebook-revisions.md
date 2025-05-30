@@ -40,9 +40,9 @@ This file tracks notes and revisions for jupyter notebooks and code in the 'Unde
 ### 🎨 Image Generation & Synthesis  
 | Notebook | Status | Priority Issues | Est. Effort |
 |----------|--------|----------------|-------------|
-| `Stable Diffusion.ipynb` | ❌ | Too large, needs splitting | 3-4 hours |
+| `Stable Diffusion.ipynb` | ⚠️ | Removed some sections that were documentations and not code | 3-4 hours |
 | `Blender.ipynb` | ⚠️ | No code, move to pressbook | 1 hour |
-| `Prompt Generator.ipynb` | 🔄 | Broken code blocks | 2 hours | Jenelle (if have time)
+| `Prompt Generator.ipynb` | ✅ | Broken code blocks have been fixed, no more errors. | 2 hours | 
 
 ### 🔍 Dataset Exploration & Filtering
 | Notebook | Status | Priority Issues | Est. Effort |
