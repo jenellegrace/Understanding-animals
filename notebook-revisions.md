@@ -57,7 +57,7 @@ This file tracks notes and revisions for jupyter notebooks and code in the 'Unde
 | `COMPLETED-close-encounters.ipynb` | ✅ | *One output error has been fixed, but test output pdf is blank(?)* | - |
 | `COMPLETED-matplotlib-visualization.ipynb` | ✅ | No issues/errors| Jenelle |
 | `COMPLETED-random-interactive-image.ipynb` | ✅ | Tested & cleaned the notebook | - |
-| `COMPLETED-sightings-bar-graph.ipynb` | ❌ | Needs review | Jenelle |
+| `COMPLETED-sightings-bar-graph.ipynb` | ✅ | No issues/errors | Jenelle |
 | `COMPLETED-treemap.ipynb` | ✅ | No issues/errors | - |
 | `COMPLETED_100grid.ipynb` | ✅ | No cell output errors, *but generated grid images need to be checked in its output folder* | - |
 
